@@ -1,0 +1,4 @@
+.vid{
+    display: flex;
+    flex-direction: column;
+}

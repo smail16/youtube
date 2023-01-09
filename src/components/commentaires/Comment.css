@@ -1,0 +1,35 @@
+.commentaire{
+    display: flex;
+}
+.nom {
+    display: flex;
+    
+}
+.gris{
+    color: gray;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+.likes{
+    display: flex;
+    
+}
+.like{
+    margin-right: 20px;
+}
+
+.repondre{
+    
+    border-radius: 26px;
+    padding: 5px 9px 5px 13px;
+}
+.repondre:hover{
+    background-color: gray;
+    
+}
+.imglogo{
+    width: 80px;
+    height: 60px;
+    padding: 6px 11px 7px 11px;
+    margin-top: -25px;
+}
